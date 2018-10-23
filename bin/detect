@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+echo "Using fstab buildpack"
+exit 0
